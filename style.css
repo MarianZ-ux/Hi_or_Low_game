@@ -1,0 +1,18 @@
+
+body {
+  background:#1F6650;
+  color: #EA5E5E;
+  text-align: center;
+}
+h6{
+  color:#EAFBEA;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.hidden {
+  display: none;
+}
+button: active
